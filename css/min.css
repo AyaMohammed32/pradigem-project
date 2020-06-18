@@ -275,6 +275,7 @@
 /* /our-portfolio-section end*/
 /* about-us-section start*/
  .about-us-section{
+  border-top:1px solid #e8e6e6;
 }
  .about-us-section .about-us-green-div{
      background-color: #03dcc7;
